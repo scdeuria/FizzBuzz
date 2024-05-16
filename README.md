@@ -196,7 +196,6 @@ Now that you've made your first edits to your code, you should ask git to save t
 
 We will save our local changes to `FizzBuzz.java` and then push the changes to your GitHub repository using
 a sequence of three git commands:
-
 1. `git add src/FizzBuzz.java`
    - this tells git to "stage" our changes to FizzBuzz.java. If you run `git status` again, you will see
    that `FizzBuzz.java` has a new status.
